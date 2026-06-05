@@ -4,7 +4,7 @@
 
 Nama Lengkap: Destantyo N.R  
 NIM: 240401010024  
-Kelas: [Isi kelas kamu]  
+Kelas: IF405  
 Program Studi: Informatika  
 Universitas: Universitas Siber Asia  
 
@@ -38,6 +38,12 @@ Beberapa tools dan library yang digunakan dalam repository ini antara lain:
 - Seaborn
 - scikit-learn
 - GitHub
+
+## Kesimpulan Dari Pertemuan 1 Sampai 7 
+
+Selama pembelajaran Data Science dari Pertemuan 1 sampai Pertemuan 7, saya mempelajari dasar-dasar penggunaan Python dan Jupyter Notebook untuk mengolah, menganalisis, dan memvisualisasikan data. Materi yang dipelajari membantu saya memahami bagaimana data dapat dibaca, dibersihkan, diproses, dan disajikan menjadi informasi yang lebih mudah dipahami.
+
+Melalui praktikum ini, saya juga mulai terbiasa menggunakan library penting dalam Data Science seperti Pandas, NumPy, Matplotlib, Seaborn, dan scikit-learn. Dengan adanya repository ini, seluruh proses belajar dapat terdokumentasi dengan lebih rapi dan dapat digunakan sebagai portofolio awal dalam bidang Data Science.
 
 ## Cara Menjalankan Notebook
 
